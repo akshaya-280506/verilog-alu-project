@@ -14,7 +14,7 @@ The ALU performs arithmetic and logical operations based on a control signal.
 - NAND
 
 ## Tools Used
-- ModelSim / Vivado (mention what you use)
+- EDA playground 
 
 ## Files
 - alu.v → ALU design
