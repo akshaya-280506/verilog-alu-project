@@ -1,2 +1,25 @@
 # verilog-alu-project
-Designed a 4-bit ALU in Verilog HDL performing arithmetic and logical operations using a 3-bit control signal. Implemented addition, subtraction, AND, OR, XOR, and NAND using combinational logic. Verified functionality through testbench simulation, demonstrating understanding of RTL design and bitwise operations.
+# 4-bit ALU Design in Verilog
+
+## Description
+This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog. 
+The ALU performs arithmetic and logical operations based on a control signal.
+
+## Operations Supported
+- Addition
+- Subtraction
+- AND
+- OR
+- XOR
+- NAND
+
+## Tools Used
+- ModelSim / Vivado (mention what you use)
+
+## Files
+- alu.v → ALU design
+- alu_tb.v → Testbench
+- waveform.png → Simulation output
+
+## Author
+Akshaya
